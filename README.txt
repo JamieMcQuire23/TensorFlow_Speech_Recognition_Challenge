@@ -14,6 +14,7 @@ This is a code repository for the CSC8635 Machine Learning Project
 
 	1. Exploaratory_Data_Analysis - Contains the code and the report for the exploratory data analysis document.
 
+	2. Kaggle_Submissions - Contains the .csv submission files.
 	2. Machine_Learning_Models - Contains the .ipynb notebooks for the machine learning models used in the report.
 
         3. Pre-Processing_Notebooks - Contains the .ipynb notebooks for the data pre-processing stage of the report.
@@ -31,6 +32,18 @@ This is a code repository for the CSC8635 Machine Learning Project
 ```
 
 The code in this section can be re-run to repeat the analyis. There is a PDF document provided which contains my EDA.
+
+
+```
+
+### Kaggle Submissions
+
+
+
+```
+
+This folder contains the .csv submissions to kaggle which can be used to achieve the same score as me.
+
 
 
 ```
