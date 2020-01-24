@@ -5,6 +5,7 @@ This is a code repository for the CSC8635 Machine Learning Project
 ## Folders
 
   1. Exploaratory_Data_Analysis - Contains the code and the report for the exploratory data analysis document.
+  2. Kaggle_Submissions - Contains the .csv submission files.
   2. Machine_Learning_Models - Contains the .ipynb notebooks for the machine learning models used in the report.
   3. Pre-Processing_Notebooks - Contains the .ipynb notebooks for the data pre-processing stage of the report.
   4. PythonNotebooks - Contains duplicate .ipynb notebooks that have been used in the report and other draft reports.
@@ -20,6 +21,13 @@ The code in this section can be re-run to repeat the analyis. There is a PDF doc
 
 ```
 This folder contains the .ipynb code used in the report for the deep learning part. The analysis can be re-run by uploading the notebooks to a Google Colab environment or alternatively on a local machine. The data will have to be generated using the notebooks in the Pre-Processing_Notebooks folder.
+
+```
+
+### Kaggle Submissions 
+
+```
+This folder contains the .csv submissions to kaggle which can be used to achieve the same score as me.
 
 ```
 
