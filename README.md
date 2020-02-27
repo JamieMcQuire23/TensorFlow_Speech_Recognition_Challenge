@@ -1,6 +1,6 @@
 # Deep Learning for Automatic Speech Recognition
 
-This is a code repository for the CSC8635 Machine Learning Project
+This is a code repository for the TensorFlow Speech Recognition Challenge
 
 ## Folders
 
